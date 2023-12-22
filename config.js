@@ -13,7 +13,7 @@ var config = {
             "I wish all the best things will come to you",
             "I had a wonderful year because of you",
             "I hope we can make more beautiful memories together ",
-            "In next year, and the year after that, and the year after that...",
+            "In next year, and the year after that, and every year after...",
             "Can't wait to see this day come true",
     ],
     /**
