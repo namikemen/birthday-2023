@@ -11,7 +11,7 @@ var config = {
             "We even have a child",
             "And now it is your birthday",
             "I wish all the best things will come to you",
-            "I had a wonderful year because of you",
+            "I had a wonderful year thanks to you",
             "I hope we can make more beautiful memories together ",
             "In next year, and the year after that, and every year after...",
             "Can't wait to see this day come true",
